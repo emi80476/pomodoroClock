@@ -1,0 +1,19 @@
+{
+  "name": "pomodoroclock",
+  "version": "1.0.0",
+  "description": "Pomodoro Clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emi80476/pomodoroClock.git"
+  },
+  "author": "Hsing-Han Tseng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emi80476/pomodoroClock/issues"
+  },
+  "homepage": "https://github.com/emi80476/pomodoroClock#readme"
+}
